@@ -18,6 +18,7 @@ hl.config({
 		touchpad = {
 			tap_to_click = true,
 			natural_scroll = true,
+			scroll_factor = 0.4,
 		},
 	},
 	general = {
